@@ -1,0 +1,16 @@
+VortexCut Studio - Proprietary License
+Copyright (c) 2026 VortexCut. All rights reserved.
+
+You may download, install, and use an unmodified VortexCut Studio installer
+obtained from the official VortexCut Studio GitHub releases.
+
+The application, its source code, branding, and original assets are
+proprietary. No permission is granted to redistribute, modify, reverse
+engineer, or create derivative works from those materials, except where
+applicable law or a third-party license expressly permits it.
+
+Third-party components included with the installer are governed by their own
+licenses. See THIRD-PARTY-NOTICES.txt and the accompanying license files.
+
+The application is provided "as is", without warranty of any kind, to the
+extent permitted by applicable law.

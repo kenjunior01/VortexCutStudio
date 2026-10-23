@@ -1,0 +1,19 @@
+Third-party components included with the Windows installer
+
+FFmpeg and ffprobe
+------------------
+The installer includes FFmpeg 7.1.1 essentials for Windows from gyan.dev.
+That build is licensed under GNU GPL version 3. Its license and build
+configuration are included with the installer.
+
+FFmpeg source:
+https://github.com/FFmpeg/FFmpeg/commit/db69d06eee
+Build provider:
+https://www.gyan.dev/ffmpeg/builds/
+
+DejaVu fonts
+------------
+The application includes DejaVu fonts. Their license is included with the
+installer.
+
+Other bundled dependencies are subject to their own upstream licenses.
