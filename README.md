@@ -2,14 +2,21 @@
 
 Editor de vídeo para Windows. Este repositório publica o instalador; o código-fonte da aplicação não é disponibilizado aqui.
 
-## Versão atual: 14.0 "Social Edition"
+## Versão atual: 15.0 "Kdenlive Edition" (inspirada no Kdenlive/KDE)
 
-- **Auto-Reframe por quadro** — adapta vídeos horizontais a 9:16 / 1:1 / 4:5 com fundo desfocado (estilo CapCut), corte central, barras ou modo automático.
-- **Exportação social em 2 cliques** — presets para TikTok, Instagram Reels e YouTube Shorts, com limite de duração da plataforma e aviso quando o projeto ultrapassa.
-- **Reframe na exportação em lote** — aplica o enquadramento automático a vários projetos de uma vez.
-- **6 novas transições 3D** — Esfera, Túnel, Bandeira, Palco, Empilhar e Estilhaço.
-- **Biblioteca com 1046+ itens** — efeitos, filtros, transições, templates de legenda, stickers, música e elementos.
-- **Abertura 3D cinematográfica** com camadas em perspetiva, comparação Antes/Depois (A/B) e mini-mapa navegável da timeline (13.0).
+- **Mixer de áudio por trilha** — fader de volume 0–200 %, Mudo e Solo (aditivo), VU meter estéreo com indicador de clipping; o volume/solo valem também na exportação.
+- **Fila de renderização (jobs)** — enfileira várias exportações e continue a trabalhar; progresso, estado e cancelamento por job, como no Kdenlive.
+- **Zona de exportação** — exporta só o intervalo definido (Ctrl+Shift+Z), salvo no projeto.
+- **Multi-Export por marcadores (Marker Zones)** — cada par de marcadores da timeline vira um vídeo independente.
+- **Operações de trilha (26.08)** — cor do cabeçalho, reordenar para cima/baixo, silenciar/ocultar/bloquear.
+- **Favoritos universais da biblioteca** — estrela em qualquer card + filtro "Só favoritos", persistência local.
+- **Biblioteca com 1080+ itens** — +8 intros animadas e +20 templates de edição novos.
+
+### Também na 14.0 "Social Edition"
+- Auto-Reframe por quadro (fundo desfocado estilo CapCut), presets TikTok/Reels/Shorts com limite de duração, 6 transições 3D, exportação em lote com reframe.
+
+### Também na 13.0 "Openput Edition"
+- Abertura 3D cinematográfica com camadas em perspetiva, comparação Antes/Depois (A/B), mini-mapa navegável da timeline.
 
 ## Instalar
 
