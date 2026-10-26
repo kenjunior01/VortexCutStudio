@@ -1,5 +1,7 @@
 # VortexCut Studio
 
+![VortexCut Studio 15.0 — Kdenlive Edition](preview-v15.0.png)
+
 Editor de vídeo para Windows. Este repositório publica o instalador; o código-fonte da aplicação não é disponibilizado aqui.
 
 ## Versão atual: 15.0 "Kdenlive Edition" (inspirada no Kdenlive/KDE)

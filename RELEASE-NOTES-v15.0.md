@@ -2,6 +2,8 @@
 
 > Inspirada no Kdenlive (kde.org/kdenlive) — os recursos mais pedidos do editor profissional do KDE, agora no VortexCut Studio, com código 100% próprio.
 
+![Pré-visualização da 15.0](preview-v15.0.png)
+
 ## Novidades
 
 ### 🎚 Mixer de áudio por trilha
