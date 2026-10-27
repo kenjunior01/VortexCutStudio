@@ -4,13 +4,17 @@
 
 Editor de vídeo para Windows. Este repositório publica o instalador; o código-fonte da aplicação não é disponibilizado aqui.
 
-## Versão atual: 15.2 "Pro Update"
+## Versão atual: 15.3 "Template Pack"
 
+- **+12 modelos de edição (70 no total)** — Slideshow de Memórias, Aniversário, Um Dia na Minha Vida, Q&A de Comentários, Top 5 Contagem, Antes e Depois, Depoimento de Cliente, Cortes de Podcast, Review Automotivo, Rotina de Beleza, Promo de Loja Online e Formatura — baseados nos tipos mais usados no CapCut/Reels/TikTok.
+- **+6 looks de legenda (38 no total)** — Cortes Hype, Neon Gamer, Menta Clean, Rosa Bounce, Luxo Serifado e Top 10 Dourado.
+- **+4 intros animadas (40 no total)** — Contador Dourado, Álbum Polaroid, Esports Flash e Vinil Disco.
+
+### Também na 15.2 "Pro Update"
 - **Pan por trilha no Mixer** — slider L/C/R com panorâmica equal-power na exportação; VU meter em tempo real.
 - **Prioridade na fila de renderização** — botões ↑/↓ para reordenar jobs pendentes; fila persistente entre sessões.
 - **Favoritos exportáveis** — exporte/importe os itens favoritos da biblioteca em JSON (merge ou substituição).
 - **Speed Ramping com 13 presets** — Ski Hill, Bullet Time, Whip e mais, prontos para aplicar num clique.
-- **36 intros animadas** — +2 novas: Onda Sonora e Constelação.
 - **Backups automáticos datados + Normalizar áudio** — o seu trabalho protegido e sem clipping na exportação (15.1).
 
 ### Também na 15.0 "Kdenlive Edition" (inspirada no Kdenlive/KDE)
