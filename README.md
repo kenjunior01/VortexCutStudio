@@ -4,8 +4,16 @@
 
 Editor de vídeo para Windows. Este repositório publica o instalador; o código-fonte da aplicação não é disponibilizado aqui.
 
-## Versão atual: 15.0 "Kdenlive Edition" (inspirada no Kdenlive/KDE)
+## Versão atual: 15.2 "Pro Update"
 
+- **Pan por trilha no Mixer** — slider L/C/R com panorâmica equal-power na exportação; VU meter em tempo real.
+- **Prioridade na fila de renderização** — botões ↑/↓ para reordenar jobs pendentes; fila persistente entre sessões.
+- **Favoritos exportáveis** — exporte/importe os itens favoritos da biblioteca em JSON (merge ou substituição).
+- **Speed Ramping com 13 presets** — Ski Hill, Bullet Time, Whip e mais, prontos para aplicar num clique.
+- **36 intros animadas** — +2 novas: Onda Sonora e Constelação.
+- **Backups automáticos datados + Normalizar áudio** — o seu trabalho protegido e sem clipping na exportação (15.1).
+
+### Também na 15.0 "Kdenlive Edition" (inspirada no Kdenlive/KDE)
 - **Mixer de áudio por trilha** — fader de volume 0–200 %, Mudo e Solo (aditivo), VU meter estéreo com indicador de clipping; o volume/solo valem também na exportação.
 - **Fila de renderização (jobs)** — enfileira várias exportações e continue a trabalhar; progresso, estado e cancelamento por job, como no Kdenlive.
 - **Zona de exportação** — exporta só o intervalo definido (Ctrl+Shift+Z), salvo no projeto.
